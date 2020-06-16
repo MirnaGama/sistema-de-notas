@@ -1,2 +1,4 @@
 Maria, 10, 8, 7
 Matheus, 5, 10, 7
+Luisa, 10, 8, 6
+Raisa, 8, 9, 6
